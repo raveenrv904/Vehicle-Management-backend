@@ -7,7 +7,7 @@
     "node": "18.x"
   },
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app.js"
   },
   "author": "RAVEEN R V",
   "license": "ISC",
